@@ -1,1 +1,1 @@
-# dockerfile-robotframework
+Dockerfile for Robot Framework Browser Library
